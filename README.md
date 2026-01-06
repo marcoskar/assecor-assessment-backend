@@ -2,7 +2,7 @@
 
 ## Zielsetzung
 
-Das Ziel ist es ein REST – Interface zu implementieren. Bei den möglichen Frameworks stehen .NET(C#), Java or Go zur Auswahl. Dabei sind die folgenden Anforderungen zu erfüllen:
+Das Ziel ist es ein REST – Interface zu implementieren. Bei den möglichen Frameworks stehen .NET(C#), Java oder Go zur Auswahl. Dabei sind die folgenden Anforderungen zu erfüllen:
 
 * Es soll möglich sein, Personen und ihre Lieblingsfarbe über das Interface zu verwalten
 * Die Daten sollen aus einer CSV Datei lesbar sein, ohne dass die CSV angepasst werden muss
@@ -165,4 +165,5 @@ the return content type is `application/json`. The interface should offer the fo
 * Add a secondary data source (e.g. database via EF or JPA)
 
 Think about your potential future colleagues, and do not make it too easy for them by posting your solution publicly. Thank you!
+
 
