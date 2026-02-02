@@ -1,0 +1,48 @@
+# .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.swp
+*.bak
+*.tmp
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Entity Framework
+Migrations/*Designer.cs
+Migrations/*Snapshot.cs
+
+# Test results
+TestResults/
+
+# Database
+*.db
+
+# Others
+*.ncrunch*
+_ReSharper*/
+
+# NuGet
+*.nupkg
+.nuget/
